@@ -51,5 +51,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prekarshamaxx123&" alt="prekarshamaxx123" /></p>
 
 
-#![1637576449185](https://user-images.githubusercontent.com/92394796/170866074-46c27621-cc8d-4168-af78-6861e765031d.jpg)
 
