@@ -1,43 +1,157 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN SRI LANKA - SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+# Dog-WORDLIST 🐕
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE%20IN%20SRI%20LANKA-SPAMMAR%20AND%20PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+</p>
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to my profile &nbsp;
+  &nbsp; WORLDWIDE POWERFUL WORDLIST GENERATOR &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Prekash;+It's+are+brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Prekash;+Professional+Wordlist+Creator;+Bruteforce+Specialist)](https://git.io/typing-svg)
 
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+## 🔥 ABOUT THE TOOL
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
-</i></b></h3>
+Worldwide best WORDLIST creation tool for brute-force attacks! Perfect for penetration testers and security researchers.
 
-# 📊GitHub Stats : 😍
+**🥵 TRY IT NOW AND THANK ME LATER ❤️😍**
+
+### 🛑 FEATURES
+- ✅ **Input All Information** - Create words using all provided data
+- ✅ **Bruteforce Optimized** - Specially designed for Bruteforce Attacks
+- ✅ **Strong Word Generation** - Can create very strong and complex words
+- ✅ **Special Characters Support** - All special characters can be used
+- ✅ **Customizable Length** - Words created under your specified length limit
+- ✅ **Advanced Options** - Make WORDLIST as advanced as you need
+
+## 🚀 QUICK INSTALL
+
+### Linux - Working ✅
+```bash
+python3 -m venv prekarsha_env
+source prekarsha_env/bin/activate
+git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
+cd dog-wordlist
+pip install -r requirements.txt
+python dog.py
+```
+
+### Termux - Working ✅
+```bash
+git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
+cd dog-wordlist
+pip install -r requirements.txt
+python dog.py
+```
+
+## ⚙️ CONFIGURATION OPTIONS
+```
+» Enter Name:> [Your Input]
+» Enter Surname:> [Your Input]  
+» Enter Birthday (DD):> [Your Input]
+» Enter Birthday (MM):> [Your Input]
+» Enter Birthday (YYYY):> [Your Input]
+» Enter Phone Number:> [Your Input]
+» Enter Pet's Name:> [Your Input]
+» Enter Other Information:> [Your Input]
+» Add special characters? (yes/no):> [Your Input]
+» Generate advanced passwords? (yes/no):> [Your Input]
+» Enter maximum word length:> [Your Input]
+```
+
+## 📸 PREVIEW
+![App Screenshot](https://github.com/user-attachments/assets/93617e6d-f5f4-4eb8-a580-85510d48e5cc)
+![App Screenshot](https://github.com/user-attachments/assets/d1585521-aae6-4a39-8035-6db116d889d3)
+
+---
+
+## 👨‍💻 ABOUT ME
+
+<h3 align="center">A passionate frontend developer and security researcher from Sri Lanka</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=prekarshamaxx123&label=Profile%20views&color=eb4d3d&style=flat-square" alt="prekarshamaxx123" /> 
+</p>
+
+## 📊 GITHUB STATS
 ![](https://github-readme-stats.vercel.app/api?username=Prekarshamaxx123&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+## 🏆 GITHUB TROPHIES
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prekarshamaxx123" alt="prekarshamaxx123" />
+  </a> 
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prekarshamaxx123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">A passionate frontend developer from sri lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prekarshamaxx123&label=Profile%20views&color=0e75b6&style=flat" alt="prekarshamaxx123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prekarshamaxx123" alt="prekarshamaxx123" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+## 🔗 CONNECT WITH ME
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/100002566020525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/100002566020525" height="30" width="40" /></a>
+  <a href="https://fb.com/cybertube1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cybertube1" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/@cybertube2024" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cybertube2024" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>  <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>  </p>
+## 💻 LANGUAGES AND TOOLS
+<p align="left"> 
+  <!-- Security & Hacking Tools -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  
+  <!-- Development -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+  </a>
+  
+  <!-- Design -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+</p>
 
+---
 
+## ⚠️ DISCLAIMER
+> **This tool is for educational and authorized penetration testing purposes only. The developer is not responsible for any misuse of this tool. Always ensure you have proper authorization before conducting any security testing.**
 
+---
+<p align="center">
+  <b>🔒 USE RESPONSIBLY • STAY SECURE • KEEP HACKING 🔓</b>
+</p>
