@@ -60,21 +60,6 @@ hacker = CyberSecurityResearcher()
   <img src="https://github-profile-trophy.vercel.app/?username=prekarshamaxx123&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
-## 🔥 CURRENT PROJECTS
-
-### 🐕 DOG-WORDLIST - Ultimate Wordlist Generator
-```bash
-# Worldwide powerful wordlist generation tool
-# Specially designed for bruteforce attacks
-# Advanced password pattern generation
-```
-
-**Features:**
-- ✅ Input personal information for targeted wordlists
-- ✅ Special characters integration
-- ✅ Advanced password patterns
-- ✅ Custom length configuration
-- ✅ Optimized for bruteforce attacks
 
 ## 🛠️ TECHNICAL ARSENAL
 
